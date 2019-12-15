@@ -1,0 +1,11 @@
+SiiNunit
+{
+mod_package : .package_name
+{
+	package_version: "1.0"
+	author: "DeeDawg"
+	category[]: "other"
+	icon: "icon.jpg"
+	description_file: "description.txt"
+}
+}
