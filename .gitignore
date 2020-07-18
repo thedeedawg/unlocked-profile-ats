@@ -79,5 +79,4 @@ Temporary Items
 .history
 
 ### Project specific ###
-base/release/package/
-dlc/release/package/
+*.scs
