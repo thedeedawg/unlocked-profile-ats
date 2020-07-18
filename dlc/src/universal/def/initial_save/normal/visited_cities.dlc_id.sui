@@ -1,0 +1,24 @@
+# Idaho
+visited_cities[102]: boise
+visited_cities[103]: coeur_dalene
+visited_cities[104]: grangeville
+visited_cities[105]: idaho_falls
+visited_cities[106]: ketchum
+visited_cities[107]: lewiston
+visited_cities[108]: nampa
+visited_cities[109]: pocatello
+visited_cities[110]: salmon
+visited_cities[111]: sandpoint
+visited_cities[112]: twin_falls
+
+visited_cities_count[102]: 1
+visited_cities_count[103]: 1
+visited_cities_count[104]: 1
+visited_cities_count[105]: 1
+visited_cities_count[106]: 1
+visited_cities_count[107]: 1
+visited_cities_count[108]: 1
+visited_cities_count[109]: 1
+visited_cities_count[110]: 1
+visited_cities_count[111]: 1
+visited_cities_count[112]: 1

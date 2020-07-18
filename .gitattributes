@@ -2,5 +2,6 @@
 
 *.txt text
 *.sii text
+*.sui text
 
 *.jpg binary
