@@ -25,6 +25,7 @@ economy: .economy
 @include "visited_cities.dlc_wa.sui"
 @include "visited_cities.dlc_ut.sui"
 @include "visited_cities.dlc_id.sui"
+@include "visited_cities.dlc_co.sui"
 @include "unlocked_dealers.base.sui"
 @include "unlocked_dealers.dlc_nevada.sui"
 @include "unlocked_dealers.dlc_arizona.sui"
@@ -33,6 +34,7 @@ economy: .economy
 @include "unlocked_dealers.dlc_wa.sui"
 @include "unlocked_dealers.dlc_ut.sui"
 @include "unlocked_dealers.dlc_id.sui"
+@include "unlocked_dealers.dlc_co.sui"
 @include "unlocked_recruitments.base.sui"
 @include "unlocked_recruitments.dlc_nevada.sui"
 @include "unlocked_recruitments.dlc_arizona.sui"
@@ -41,6 +43,7 @@ economy: .economy
 @include "unlocked_recruitments.dlc_wa.sui"
 @include "unlocked_recruitments.dlc_ut.sui"
 @include "unlocked_recruitments.dlc_id.sui"
+@include "unlocked_recruitments.dlc_co.sui"
 }
 
 bank: .bank
