@@ -79,4 +79,5 @@ Temporary Items
 .history
 
 ### Project specific ###
-*.zip
+base/release/package/
+dlc/release/package/
