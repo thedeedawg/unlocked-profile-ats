@@ -1,6 +1,6 @@
 # Unlocked Profile (American Truck Simulator)
 
-*Unlocked Profile* will unlock/discover all cities, truck dealers, and recruitment agencies from the start, so you don't have to. This repo contains the source files for both the *Base Game* and *DLC* edition of this mod.
+*Unlocked Profile* will unlock/discover all cities, truck dealers, recruitment agencies, and viewpoints from the start, so you don't have to. This repo contains the source files for both the *Base Game* and *DLC* edition of this mod.
 
 ## Installation
 
