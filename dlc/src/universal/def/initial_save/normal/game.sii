@@ -59,6 +59,7 @@ economy: .economy
 @include "discovered_cutscene_items.dlc_wa.sui"
 @include "discovered_cutscene_items.dlc_ut.sui"
 @include "discovered_cutscene_items.dlc_id.sui"
+@include "discovered_cutscene_items.dlc_co.sui"
 @include "stored_map_actions.sui"
 }
 
