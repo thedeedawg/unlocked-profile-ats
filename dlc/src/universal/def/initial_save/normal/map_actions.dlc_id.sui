@@ -1,0 +1,22 @@
+map_action : .dlc.id.cutscenes
+{
+    id_params[0]: 4071821293660864513
+    id_params[1]: 4071821978729119745
+    id_params[2]: 4071822685192519681
+    id_params[3]: 4071823356297936897
+    id_params[4]: 4071824400503472129
+    id_params[5]: 4071825140231897089
+    id_params[6]: 4071826207791316993
+    id_params[7]: 4071827132438216705
+    id_params[8]: 4071828043067752449
+    id_params[9]: 4118735479326048257
+
+    name: ""
+    command: achievement
+    num_params: 0
+    str_params: 1
+    str_params[0]: id_cutscenes
+    target_tags: 0
+    target_range: 0
+    type: default
+}
