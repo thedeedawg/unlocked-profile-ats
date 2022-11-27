@@ -1,0 +1,37 @@
+map_action : .dlc.tx.cutscenes
+{
+    id_params[0]: 5148322168823939072
+    id_params[1]: 5148322288948805632
+    id_params[2]: 5148322426865909760
+    id_params[3]: 5148322547481509888
+    id_params[4]: 5148322668734644224
+    id_params[5]: 5148322788653989888
+    id_params[6]: 5148322925841285120
+    id_params[7]: 5148323061329887232
+    id_params[8]: 5148323304243003392
+    id_params[9]: 5148323511177379840
+    id_params[10]: 5148323752005926912
+    id_params[11]: 5148323971695181824
+    id_params[12]: 5148324198409895944
+    id_params[13]: 5148324439095836672
+    id_params[14]: 5148324627495583744
+    id_params[15]: 5148324748660637696
+    id_params[16]: 5148324918450257920
+    id_params[17]: 5148325091339468800
+    id_params[18]: 5148325263469510656
+    id_params[19]: 5148325451017814016
+    id_params[20]: 5148325604390928384
+    id_params[21]: 5148325725082025984
+    id_params[22]: 5148325844602912768
+    id_params[23]: 5148326189097877504
+    id_params[24]: 5148326481071767552
+
+    name: ""
+    command: achievement
+    num_params: 0
+    str_params: 1
+    str_params[0]: tx_cutscenes
+    target_tags: 0
+    target_range: 0
+    type: default
+}
