@@ -60,6 +60,7 @@ economy: .economy
 @include "discovered_cutscene_items.dlc_ut.sui"
 @include "discovered_cutscene_items.dlc_id.sui"
 @include "discovered_cutscene_items.dlc_co.sui"
+@include "discovered_cutscene_items.dlc_wy.sui"
 @include "stored_map_actions.sui"
 }
 
@@ -94,4 +95,5 @@ delivery_log: .delivery_log
 }
 
 @include "map_actions.dlc_id.sui"
+@include "map_actions.dlc_wy.sui"
 }
