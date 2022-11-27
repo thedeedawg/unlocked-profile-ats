@@ -53,6 +53,17 @@ economy: .economy
 @include "unlocked_recruitments.dlc_wy.sui"
 @include "unlocked_recruitments.dlc_mt.sui"
 @include "unlocked_recruitments.dlc_tx.sui"
+@include "discovered_cutscene_items.base.sui"
+@include "discovered_cutscene_items.dlc_nm.sui"
+@include "discovered_cutscene_items.dlc_or.sui"
+@include "discovered_cutscene_items.dlc_wa.sui"
+@include "discovered_cutscene_items.dlc_ut.sui"
+@include "discovered_cutscene_items.dlc_id.sui"
+@include "discovered_cutscene_items.dlc_co.sui"
+@include "discovered_cutscene_items.dlc_wy.sui"
+@include "discovered_cutscene_items.dlc_mt.sui"
+@include "discovered_cutscene_items.dlc_tx.sui"
+@include "stored_map_actions.sui"
 }
 
 bank: .bank
@@ -84,4 +95,9 @@ player: .player
 delivery_log: .delivery_log
 {
 }
+
+@include "map_actions.dlc_id.sui"
+@include "map_actions.dlc_wy.sui"
+@include "map_actions.dlc_mt.sui"
+@include "map_actions.dlc_tx.sui"
 }

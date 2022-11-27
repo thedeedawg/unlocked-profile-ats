@@ -1,0 +1,22 @@
+map_action : .dlc.wy.cutscenes
+{
+    id_params[0]: 4420733511826210817
+    id_params[1]: 4429052106906140673
+    id_params[2]: 4439644661184331777
+    id_params[3]: 4442252103097778177
+    id_params[4]: 4442960996928389121
+    id_params[5]: 4445972367823405057
+    id_params[6]: 4446806692946116608
+    id_params[7]: 4460797274352386049
+    id_params[8]: 4472217490596167681
+    id_params[9]: 4479572878057668611
+
+    name: ""
+    command: achievement
+    num_params: 0
+    str_params: 1
+    str_params[0]: wy_cutscenes
+    target_tags: 0
+    target_range: 0
+    type: default
+}
