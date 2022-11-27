@@ -57,6 +57,7 @@ economy: .economy
 @include "discovered_cutscene_items.dlc_nm.sui"
 @include "discovered_cutscene_items.dlc_or.sui"
 @include "discovered_cutscene_items.dlc_wa.sui"
+@include "discovered_cutscene_items.dlc_ut.sui"
 }
 
 bank: .bank
