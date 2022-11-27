@@ -2,20 +2,20 @@ SiiNunit
 {
 economy: .economy
 {
-	new_game: true
+    new_game: true
 
-	player: .player
-	bank: .bank
-	game_progress: .progress
-	event_queue: .events
-	police_ctrl: .police
-	mail_ctrl: .mailbox
-	delivery_log: .delivery_log
+    player: .player
+    bank: .bank
+    game_progress: .progress
+    event_queue: .events
+    police_ctrl: .police
+    mail_ctrl: .mailbox
+    delivery_log: .delivery_log
 
 @include "locked_screens.sui"
 
-	#Starting time in minutes.
-	game_time: 600
+    #Starting time in minutes.
+    game_time: 600
 
 @include "visited_cities.base.sui"
 @include "visited_cities.dlc_nevada.sui"
@@ -30,8 +30,8 @@ economy: .economy
 
 bank: .bank
 {
-	money_account: 1500
-	app_enabled: false
+    money_account: 1500
+    app_enabled: false
 }
 
 game_progress: .progress

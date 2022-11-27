@@ -2,6 +2,6 @@ SiiNunit
 {
 package_version_info : .universal
 {
-	package_name: "universal"
+    package_name: "universal"
 }
 }
