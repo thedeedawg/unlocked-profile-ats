@@ -64,6 +64,7 @@ economy: .economy
 @include "discovered_items.dlc_co.sui"
 @include "discovered_items.dlc_wy.sui"
 @include "discovered_items.dlc_mt.sui"
+@include "discovered_items.dlc_tx.sui"
 @include "discovered_cutscene_items.base.sui"
 @include "discovered_cutscene_items.dlc_nm.sui"
 @include "discovered_cutscene_items.dlc_or.sui"
