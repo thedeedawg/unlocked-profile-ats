@@ -26,6 +26,9 @@ economy: .economy
 @include "unlocked_recruitments.base.sui"
 @include "unlocked_recruitments.dlc_nevada.sui"
 @include "unlocked_recruitments.dlc_arizona.sui"
+@include "discovered_items.base.sui"
+@include "discovered_items.dlc_nevada.sui"
+@include "discovered_items.dlc_arizona.sui"
 @include "discovered_cutscene_items.base.sui"
 }
 
