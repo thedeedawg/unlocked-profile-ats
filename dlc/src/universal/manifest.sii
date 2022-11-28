@@ -2,7 +2,7 @@ SiiNunit
 {
 mod_package : .package_name
 {
-    package_version: "1.6"
+    package_version: "1.7"
     author: "DeeDawg"
     category[]: "other"
     icon: "icon.jpg"
